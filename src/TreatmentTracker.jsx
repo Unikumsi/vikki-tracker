@@ -21,7 +21,7 @@ const medications = [
   },
   {
     id: 2,
-    name: 'Донцил',
+    name: 'Данцил',
     detail: 'Глазные капли, по 1 капле',
     dosesPerDay: 4,
     startDay: 0,
